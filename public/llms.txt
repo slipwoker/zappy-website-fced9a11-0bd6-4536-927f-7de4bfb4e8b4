@@ -1,0 +1,84 @@
+# Theroi — Generative Engine Optimization Map
+
+> An affiliate or referral website that does not sell products directly, but instead showcases and promotes products (such as flashlights/torches) with links pointing to external retailers like KSP. The site acts as a marketing and discovery platform, helping users find products and redirecting them to the actual seller's website to complete the purchase.
+
+---
+
+## Pages
+
+### בית
+https://theroi-fced9a11.zappy5.app
+מחפשים את תוכנית השותפים הטובה ביותר למסחר אלקטרוני? Theroi מחברת אתכם למוצרים מנצחים כמו פנסים עם לינקים לקנייה מהירה. הצטרפו עכשיו וגלו איך להרוויח!
+
+### איך זה עובד
+https://theroi-fced9a11.zappy5.app/how-it-works
+הסבר פשוט ומהיר על פעולת רשתות שותפים למסחר אלקטרוני: אתם מגלים מוצרים, אנחנו מפנים לרכישה. התחילו להרוויח היום עם Theroi – בלי מלאי ובלי כאב ראש!
+
+### מדריכים
+https://theroi-fced9a11.zappy5.app/guides
+מדריכים מעשיים שיהפכו אתכם למומחים בבחירת מוצרים ושימוש ברשתות שותפים למסחר אלקטרוני. היכנסו עכשיו ל-Theroi וקחו את ההכנסות שלכם צעד קדימה!
+
+### צור קשר
+https://theroi-fced9a11.zappy5.app/contact
+יש שאלה על תוכנית השותפים הטובה ביותר למסחר אלקטרוני? צרו קשר עם Theroi עוד היום וקבלו תשובות וליווי אישי שיעזרו לכם להתחיל להרוויח מהר יותר!
+
+### Products
+https://theroi-fced9a11.zappy5.app/products
+המוצרים שלנו - Theroi
+
+### Product Detail
+https://theroi-fced9a11.zappy5.app/product/:slug
+פרטי המוצר - Theroi
+
+### Category
+https://theroi-fced9a11.zappy5.app/category/:slug
+מוצרים - Theroi
+
+### תודה שפניתם אלינו
+https://theroi-fced9a11.zappy5.app/thank-you
+Theroi - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://theroi-fced9a11.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://theroi-fced9a11.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://theroi-fced9a11.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Theroi
+An affiliate or referral website that does not sell products directly, but instead showcases and promotes products (such as flashlights/torches) with links pointing to external retailers like KSP. The site acts as a marketing and discovery platform, helping users find products and redirecting them to the actual seller's website to complete the purchase.
+
+## Target Audience
+- חובבי שטח וטבע
+- חובבי גאדג'טים
+- חובבי שיפוצים ועשה זאת בעצמך
+
+## Industry
+E-commerce Affiliate
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://theroi-fced9a11.zappy5.app/sitemap.xml
+- Robots: https://theroi-fced9a11.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://theroi-fced9a11.zappy5.app/llms-full.txt
+- Products (JSON): https://theroi-fced9a11.zappy5.app/products.json
+- Products (Google Merchant RSS): https://theroi-fced9a11.zappy5.app/product-feed.xml
