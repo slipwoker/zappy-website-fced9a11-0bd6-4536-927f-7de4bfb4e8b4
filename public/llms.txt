@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://theroi-fced9a11.zappy5.app
+https://example.com
 מחפשים את תוכנית השותפים הטובה ביותר למסחר אלקטרוני? Theroi מחברת אתכם למוצרים מנצחים כמו פנסים עם לינקים לקנייה מהירה. הצטרפו עכשיו וגלו איך להרוויח!
 
 ### איך זה עובד
-https://theroi-fced9a11.zappy5.app/how-it-works
+https://example.com/how-it-works
 הסבר פשוט ומהיר על פעולת רשתות שותפים למסחר אלקטרוני: אתם מגלים מוצרים, אנחנו מפנים לרכישה. התחילו להרוויח היום עם Theroi – בלי מלאי ובלי כאב ראש!
 
 ### מדריכים
-https://theroi-fced9a11.zappy5.app/guides
+https://example.com/guides
 מדריכים מעשיים שיהפכו אתכם למומחים בבחירת מוצרים ושימוש ברשתות שותפים למסחר אלקטרוני. היכנסו עכשיו ל-Theroi וקחו את ההכנסות שלכם צעד קדימה!
 
 ### צור קשר
-https://theroi-fced9a11.zappy5.app/contact
+https://example.com/contact
 יש שאלה על תוכנית השותפים הטובה ביותר למסחר אלקטרוני? צרו קשר עם Theroi עוד היום וקבלו תשובות וליווי אישי שיעזרו לכם להתחיל להרוויח מהר יותר!
 
 ### Products
-https://theroi-fced9a11.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Theroi
 
 ### Product Detail
-https://theroi-fced9a11.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Theroi
 
 ### Category
-https://theroi-fced9a11.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Theroi
 
 ### תודה שפניתם אלינו
-https://theroi-fced9a11.zappy5.app/thank-you
+https://example.com/thank-you
 Theroi - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://theroi-fced9a11.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://theroi-fced9a11.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://theroi-fced9a11.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -77,8 +77,8 @@ E-commerce Affiliate
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://theroi-fced9a11.zappy5.app/sitemap.xml
-- Robots: https://theroi-fced9a11.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://theroi-fced9a11.zappy5.app/llms-full.txt
-- Products (JSON): https://theroi-fced9a11.zappy5.app/products.json
-- Products (Google Merchant RSS): https://theroi-fced9a11.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
